@@ -2,68 +2,80 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,50:7289DA,100:9B8BFF&height=220&section=header&text=heyaris&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=building%20things%20that%20probably%20shouldn't%20exist&descAlignY=60&descSize=15" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-local--nero-181717?style=for-the-badge&logo=github)](https://github.com/local-nero)
+[![GitHub](https://img.shields.io/badge/GitHub-draywizz-181717?style=for-the-badge&logo=github)](https://github.com/draywizz)
 [![Website](https://img.shields.io/badge/EVODL-evodl.site-7289DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evodl.site)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dzrnf64T3z)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8294FF&center=true&vCenter=true&width=650&lines=independent+developer+%26+project+creator;building+EVODL+and+EVODL+Gacha;web+development+%7C+automation+%7C+game+tools;turning+random+ideas+into+real+projects;probably+debugging+something+right+now" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8294FF&center=true&vCenter=true&width=650&lines=developer+%26+professional+overthinker;building+EVODL+and+EVODL+Gacha;turning+stupid+ideas+into+actual+projects;somehow+making+everything+a+side+project;probably+debugging+something+right+now" />
 
 </div>
 
 ---
 
-## 👋 About me
+## 👋 So, who am I?
 
-Hey! I'm **Aris** (also known as `local-nero`), an independent developer who enjoys building things, experimenting with technologies, and turning ideas into actual projects.
+Hey! I'm **Aris**, also known as `draywizz` (previously `local-nero`).
 
-I mainly work on web development, backend systems, databases, Discord bots, and game-related projects.
+I'm a developer, Geometry Dash enthusiast, professional idea collector, and someone who has a concerning tendency to turn a random thought into a full-blown project.
 
-Currently, most of my development time goes into **EVODL** and its expanding ecosystem.
+I enjoy making things, breaking them, fixing them, and then somehow finding three more things to add.
 
-- 💻 Interested in software engineering and full-stack development.
-- 💜 Creator and lead developer of [**EVODL**](https://evodl.site).
-- 🎰 Currently developing **EVODL Gacha**.
-- 🎮 Interested in Geometry Dash and its modding ecosystem.
-- 🤖 Enjoy building automation, bots, and interactive systems.
-- 🛠️ Always experimenting with new ideas and technologies.
+Most of my time goes into coding, experimenting with random ideas, and working on **EVODL**.
 
-> "Building projects, breaking things, and making ideas real."
+A few things about me:
+
+- 💜 I like building projects that actually have a purpose (or at least a funny one).
+- 💻 Mostly interested in web development, backend systems, and software engineering.
+- 🎮 Geometry Dash has probably influenced more of my projects than it should.
+- 🚀 Creator and lead developer of [**EVODL**](https://evodl.site).
+- 🎰 Currently working on **EVODL Gacha**.
+- 🤖 Discord bots, automation, databases, and unnecessarily complicated systems? Absolutely.
+- 🧠 I enjoy figuring out how things work, even when I probably should be doing something else.
+- 🎵 Usually listening to music while coding. Silence is suspicious.
+
+> "It started as a small idea."
+>
+> Famous last words before creating an entire ecosystem.
 
 ---
 
-## 🚀 Featured projects
+## 🚀 What I'm building
 
 <div align="center">
 
 <a href="https://evodl.site">
-<img src="https://evodl.site/demonlist/header.png" width="75%" alt="EVODL logo" />
+<img src="https://evodl.site/demonlist/header.png" width="75%" alt="EVODL" />
 </a>
 
 ### 💜 EVODL
 
-**Easy Version Of Demons List · Main project**
+**Easy Version Of Demons List**
 
 <a href="https://evodl.site">
 <img src="https://evodl.site/demonlist/favicon.png" width="72" alt="EVODL icon" />
 </a>
 
+<sub>My main project · Ongoing development</sub>
+
 </div>
 
-My primary ongoing project: a Geometry Dash demonlist dedicated to making challenging demons more accessible through easier versions.
+A Geometry Dash demonlist with a slightly different goal: making challenging demons more accessible through easier versions of existing levels.
 
-**What I'm building:**
+What started as a project has grown into a whole platform with its own community, infrastructure, and ecosystem.
 
-- Custom website and database infrastructure.
+**Some of the things I've built:**
+
+- Custom website and database thingies.
 - Player profiles, completion records, and statistics.
 - Demonlist rankings and placement systems.
 - Level submissions and moderation workflows.
 - Staff management and administrative tools.
-- Discord bot, webhooks, and community integrations.
-- Separate difficulty ecosystem through EVODL+.
+- Discord bots, webhooks, and community integrations.
+- EVODL+ and its separate difficulty ecosystem.
 
 <div align="center">
 
-[![Visit EVODL](https://img.shields.io/badge/Visit%20EVODL-7289DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evodl.site)
+[![Visit EVODL](https://img.shields.io/badge/EXPLORE%20EVODL-7289DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evodl.site)
 
 </div>
 
@@ -73,118 +85,32 @@ My primary ongoing project: a Geometry Dash demonlist dedicated to making challe
 
 ### 🎰 EVODL Gacha
 
-**Currently in development**
+<sub>Currently in development</sub>
 
 </div>
 
-A gacha experience built around the EVODL ecosystem and Geometry Dash levels.
+Because apparently maintaining one EVODL project wasn't enough.
 
-**The idea:**
+EVODL Gacha is an upcoming gacha experience built around the EVODL ecosystem and Geometry Dash levels.
 
-- Collectible levels.
-- Different rarity tiers.
-- Gacha and progression mechanics.
-- EVODL-inspired content and collectibles.
-- An interactive experience for the community.
+**The general idea:**
 
-*More features and details coming as development progresses.*
+- 🎲 Collectible levels.
+- ✨ Different rarity tiers.
+- 🎰 Gacha mechanics.
+- 📈 Progression and collection systems.
+- 💜 EVODL-inspired content.
+
+*More details once I stop adding features to it.*
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Things I code with
 
-Technologies I work with, experiment with, or use across my projects.
+My current toolbox. Some technologies I use regularly, others I experiment with.
 
 <div align="center">
 
-### Programming languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=js,php,lua,html,css,mysql&theme=dark" />
-
-### Development tools
-
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=local-nero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8294FF&icon_color=8294FF&text_color=C9D1D9&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=local-nero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8294FF&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=local-nero&theme=tokyonight&hide_border=true&background=0D1117&ring=8294FF&fire=8294FF&currStreakLabel=8294FF" width="70%" />
-
-</div>
-
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=local-nero&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" />
-
-</div>
-
----
-
-## 📈 Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=local-nero&bg_color=0d1117&color=8294ff&line=7289da&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/local-nero/local-nero/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 🎯 Currently working on
-
-- [x] Building and maintaining EVODL.
-- [ ] Expanding EVODL's features and ecosystem.
-- [ ] Developing EVODL Gacha.
-- [ ] Improving my development skills.
-- [ ] Building more interesting things.
-
----
-
-## 📫 Find me around
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-local--nero-181717?style=for-the-badge&logo=github)](https://github.com/local-nero)
-
-[![EVODL](https://img.shields.io/badge/EVODL-Website-7289DA?style=for-the-badge)](https://evodl.site)
-
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/dzrnf64T3z)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=local-nero&style=for-the-badge&color=7289DA&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-**Thanks for visiting! 💜**
-
-*Feel free to explore my repositories.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,50:7289DA,100:9B8BFF&height=130&section=footer" width="100%" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=js,php,lua,html,css,mysql&theme
